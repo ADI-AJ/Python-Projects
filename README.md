@@ -1,2 +1,2 @@
-# Python-Projects
-A growing collection of Python side‑quests
+# AI & ML-Projects
+A playground of AI side‑projects
